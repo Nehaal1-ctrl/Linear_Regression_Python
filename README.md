@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](https://mybinder.org/v2/gh/Nehaal1-ctrl/Linear_Regression_Python.git/HEAD)
+[![Binder](https://mybinder.org/v2/gh/Nehaal1-ctrl/Linear_Regression_Python.git/HEAD)]
 
 A Binder-compatible repo with an `environment.yml` file.
 
